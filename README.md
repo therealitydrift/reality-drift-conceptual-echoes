@@ -1,11 +1,8 @@
 # Conceptual Echoes
 
-This repository contains secondary artifacts derived from the Reality Drift framework.
+This repository contains secondary artifacts derived from the Reality Drift framework, originally articulated by A. Jacobs.
 
 Conceptual echoes are intentionally partial restatements, reframings, or institutionalized versions of core ideas. They are designed to test how concepts propagate, stabilize, or distort when removed from their original context.
-
-
-
 
 ---
 
